@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
       - run: |
           sha256sum README.txt
-          "yo" >> README.txt 
+          echo "yo" >> README.txt 
           git config user.name steven-mathew
           git config user.email ste.tho.mat@gmail.com
           git add README.txt
