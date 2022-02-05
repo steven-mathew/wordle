@@ -1,0 +1,15 @@
+name: Continuous Integration
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main] 
+jobs:
+  build:
+    name: Integrate Continuously
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: sha256sum README.txt
+      - run: sed -i '1s/^/thinghere\n/' README.txt
+      - run: sha256sum README.txt
