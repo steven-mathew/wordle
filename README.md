@@ -1,4 +1,4 @@
-[![US/Pacific timezone](https://img.shields.io/badge/timezone-US%2FEast-informational)](https://www.timeanddate.com/worldclock/canada/toronto)
+[![UTC timezone](https://img.shields.io/badge/timezone-UTC%2FGMT-informational)](https://www.timeanddate.com/worldclock/timezone/utc)
 
 ---
 
