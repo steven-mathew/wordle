@@ -15,6 +15,6 @@ jobs:
           cargo run --release >> README.md
           git config user.name steven-mathew
           git config user.email ste.tho.mat@gmail.com
-          git add README.txt
+          git add README.md
           git commit -m "Update Wordle of they day"
           git push
