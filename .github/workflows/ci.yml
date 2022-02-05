@@ -10,6 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: sha256sum README.txt
-      - run: sed -i '1s/^/thinghere\n/' README.txt
-      - run: sha256sum README.txt
+      - run: |
+          sha256sum README.txt
+          "yo" >> README.txt 
+          git config user.name steven-mathew
+          git config user.email ste.tho.mat@gmail.com
+          git add README.txt
+          git commit -m "Update Wordle of they day"
+          git push
