@@ -10,12 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        run: sha256sum README.md
-      - name: Build and Run
-        run: |
+      - run: |
+          sha256sum README.md
           cargo run --release >> README.md
-      - name: Push
-        run: |
           git config user.name steven-mathew
           git config user.email ste.tho.mat@gmail.com
           git add README.txt
