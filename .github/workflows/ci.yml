@@ -18,7 +18,7 @@ jobs:
           echo "[![UTC timezone](https://img.shields.io/badge/timezone-UTC%2FGMT-informational)](https://www.timeanddate.com/worldclock/timezone/utc)" > README.md
           echo "---" >> README.md
           echo "<details>" >> README.md
-          echo "<summary>⚠️ Spoiler for today's wordlee</summary>" >> README.md
+          echo "<summary>Spoiler for today's wordle</summary>" >> README.md
           cargo run --release >> README.md
           echo "</details>" >> README.md
           sha256sum README.md
