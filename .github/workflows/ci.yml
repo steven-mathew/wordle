@@ -12,7 +12,10 @@ jobs:
       - uses: actions/checkout@v2
       - run: |
           sha256sum README.md
+          echo "[![UTC timezone](https://img.shields.io/badge/timezone-UTC%2FGMT-informational)](https://www.timeanddate.com/worldclock/timezone/utc)" > README.md
+          echo "---" >> README.md
           cargo run --release >> README.md
+          sha256sum README.md
           git config user.name steven-mathew
           git config user.email ste.tho.mat@gmail.com
           git add README.md
