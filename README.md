@@ -2,5 +2,5 @@
 ---
 <details>
 <summary>Spoiler for today's wordle</summary>
-aloft (2022-02-05+00:00)
+skill (2022-02-06+00:00)
 </details>
