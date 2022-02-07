@@ -2,5 +2,5 @@
 ---
 <details>
 <summary>Spoiler for today's wordle</summary>
-skill (2022-02-06+00:00)
+elder (2022-02-07+00:00)
 </details>
