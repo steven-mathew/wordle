@@ -2,5 +2,5 @@
 ---
 <details>
 <summary>Spoiler for today's wordle</summary>
-frame (2022-02-08+00:00)
+humor (2022-02-09+00:00)
 </details>
