@@ -2,5 +2,5 @@
 ---
 <details>
 <summary>Spoiler for today's wordle</summary>
-pause (2022-02-10+00:00)
+ulcer (2022-02-11+00:00)
 </details>
