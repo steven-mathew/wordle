@@ -2,5 +2,5 @@
 ---
 <details>
 <summary>Spoiler for today's wordle</summary>
-ultra (2022-02-12+00:00)
+robin (2022-02-13+00:00)
 </details>
