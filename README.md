@@ -2,5 +2,5 @@
 ---
 <details>
 <summary>Spoiler for today's wordle</summary>
-robin (2022-02-13+00:00)
+cynic (2022-02-14+00:00)
 </details>
