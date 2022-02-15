@@ -2,5 +2,5 @@
 ---
 <details>
 <summary>Spoiler for today's wordle</summary>
-cynic (2022-02-14+00:00)
+agora (2022-02-15+00:00)
 </details>
