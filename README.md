@@ -2,5 +2,5 @@
 ---
 <details>
 <summary>Spoiler for today's wordle</summary>
-agora (2022-02-15+00:00)
+aroma (2022-02-16+00:00)
 </details>
