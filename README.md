@@ -2,5 +2,5 @@
 ---
 <details>
 <summary>Spoiler for today's wordle</summary>
-aroma (2022-02-16+00:00)
+caulk (2022-02-17+00:00)
 </details>
