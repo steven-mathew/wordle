@@ -2,5 +2,5 @@
 ---
 <details>
 <summary>Spoiler for today's wordle</summary>
-caulk (2022-02-17+00:00)
+shake (2022-02-18+00:00)
 </details>
