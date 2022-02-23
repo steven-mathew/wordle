@@ -19,8 +19,7 @@ jobs:
           echo "---" >> README.md
           echo "<details>" >> README.md
           echo "<summary>Spoiler for today's wordle</summary>" >> README.md
-          # cargo run --release >> README.md
-          ./bootstrap >> README.md
+          cargo run --release >> README.md
           echo "</details>" >> README.md
           sha256sum README.md
           git config user.name steven-mathew
