@@ -2,5 +2,5 @@
 ---
 <details>
 <summary>Spoiler for today's wordle</summary>
-shake (2022-02-18+00:00)
+trove (2022-02-23+00:00)
 </details>
